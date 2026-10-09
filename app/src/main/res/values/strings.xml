@@ -1,0 +1,5 @@
+
+<resources>
+    <string name="app_name">MADD Lab 05</string>
+    <string name="android_icon_description">Android robot image that moves when the phone tilts</string>
+</resources>
